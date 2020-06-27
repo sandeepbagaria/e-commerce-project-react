@@ -1,0 +1,7 @@
+.Content {
+    margin-top: 72px;
+    grid-area: main;
+    margin-left: 200px; /* Same width as the sidebar + left position in px */
+    padding: 0px 10px;
+}
+

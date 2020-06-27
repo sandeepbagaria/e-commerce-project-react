@@ -1,0 +1,11 @@
+.OrderSummary {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.TotalPrice {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+}

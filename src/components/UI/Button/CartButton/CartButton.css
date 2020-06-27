@@ -1,0 +1,40 @@
+.CartDiv {
+    margin-bottom: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.LessButton {
+    border: none;
+    outline: 0;
+    padding: 9px;
+    color: white;
+    background-color:rgb(136, 134, 134);
+    text-align: center;
+    cursor: pointer;
+    width: 20%;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.LessButton:hover {
+    background-color:rgb(100, 99, 99);
+}
+
+.MoreButton {
+    border: none;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    background-color:rgb(136, 134, 134);
+    text-align: center;
+    cursor: pointer;
+    width: 20%;
+    font-size: 18px;
+    border-radius: 5px;  
+}
+
+.MoreButton:hover {
+    background-color:rgb(100, 99, 99);
+}

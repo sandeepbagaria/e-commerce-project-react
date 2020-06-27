@@ -1,0 +1,11 @@
+.TopDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.HeaderDiv {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    -webkit-text-stroke-width: thick;
+}

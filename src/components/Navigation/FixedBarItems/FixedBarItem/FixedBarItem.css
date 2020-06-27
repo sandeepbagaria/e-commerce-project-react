@@ -1,0 +1,37 @@
+/* .FixedBar {
+    width: 200px;
+    position: fixed;
+    z-index: 0;
+    top: 20px;
+    left: 10px;
+    background: white;
+    overflow-x: hidden;
+    padding: 56px 0;
+  }
+    
+  .FixedBar div {
+    padding: 5px 8px 8px 5px;
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(58, 57, 57);
+    display: block;
+    background-color: white;
+  }
+  
+  .FixedBar div:hover {
+    color: black;
+    background-color: rgb(215, 243, 59);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .Main {
+    margin-left: 140px; 
+    font-size: 28px; 
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .FixedBar {padding-top: 15px;}
+    .FixedBar div {font-size: 18px;}
+  } */

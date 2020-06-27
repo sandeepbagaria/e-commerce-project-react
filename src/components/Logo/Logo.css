@@ -1,0 +1,22 @@
+.Logo {
+    background-color: white;
+    padding: 5px;
+    height: 80%;
+    box-sizing: border-box;
+}
+
+.Logo img {
+    height: 100%;
+}
+
+.Logo button {
+    height: 45px;
+    width: 45px;
+    margin-top: -4px;
+    padding: 0;
+}
+
+.Logo button:hover {
+    background-color: yellowgreen;
+    cursor: pointer;
+}
